@@ -1,0 +1,22 @@
+{
+  "wheel_id": 493,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-151",
+  "project": "kitchen-renovations-north-shore-checklist-cff3e953946d405dca",
+  "parent_t1_ref": "northshorekitchenrenovation-010",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore checklist",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovations-north-shore-checklist-cff3e953946d405dca/",
+  "tier": "T2",
+  "writeback_nonce": "4ee01b9a2fcb8f53",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-north-shore-010/",
+      "anchor": "Kitchen Renovations North Shore: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
